@@ -16,11 +16,11 @@ This project extracts the entire blood vessel structure from a given **fundus im
 
 ## Features
 
-Thresholding: Converts an image to a binary format.
-Connected Components Analysis: Identifies and labels connected regions in a binary image.
-CLAHE (Contrast Limited Adaptive Histogram Equalization): Enhances the contrast of an image adaptively.
+- Thresholding: Converts an image to a binary format.
+- Connected Components Analysis: Identifies and labels connected regions in a binary image.
+- CLAHE (Contrast Limited Adaptive Histogram Equalization): Enhances the contrast of an image adaptively.
 
 ## Input & Output
 
-Input: Grayscale or color images in a supported format.
-Output: Processed images saved to a designated folder.
+- Input: Grayscale or color images in a supported format.
+- Output: Processed images saved to a designated folder.
